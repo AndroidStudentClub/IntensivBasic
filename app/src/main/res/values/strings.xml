@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntensivBasic</string>
+
+    <string name="search_hint">Введите название</string>
+
+    <string name="close">закрыть</string>
+</resources>
