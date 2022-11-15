@@ -4,4 +4,25 @@
     <string name="search_hint">Введите название</string>
 
     <string name="close">закрыть</string>
+
+    <string name="filter">Фильтр</string>
+    <string name="calories_title_sb">Калории</string>
+    <string name="time_to_cook_sb">Время приготовления</string>
+    <string name="number_of_servings_sb">Количество порций</string>
+    <string name="apply_btn">Применить</string>
+    <string name="rating_sb">Рейтинг</string>
+    <string name="drinks_chip">Напитки</string>
+    <string name="desserts_chip">Десерты</string>
+    <string name="meat_dishes_chip">Мясные блюда</string>
+    <string name="main_course_chip">Главное блюдо</string>
+    <string name="first_dish_chip">Первое блюдо</string>
+    <string name="soups_chip">Супы</string>
+    <string name="snacks_chip">Закуски</string>
+    <string name="dish_title">Блюдо</string>
+    <string name="dinner">Ужин</string>
+    <string name="lunch">Обед</string>
+    <string name="breakfast">Завтрак</string>
+    <string name="brunch">Поздний завтрак</string>
+    <string name="clear_btn">Очистить</string>
+    <string name="meal_title">Прием пищи</string>
 </resources>
